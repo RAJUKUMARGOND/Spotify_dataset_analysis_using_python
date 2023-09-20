@@ -1,4 +1,7 @@
-Key findings
+*Objective* :
+The objective of the Spotify dataset analysis is to gain valuable insights and actionable recommendations by leveraging the extensive collection of data from the popular music streaming platform. By analyzing various aspects of the dataset, including user preferences, music genres, artist popularity, and listening trends, the goal is to enhance user experience, optimize content curation, and support strategic decision-making for Spotify and its stakeholders.
+
+*Key findings* :
 1. Least popular songs
 a. Newspaper Reports On Abner, 20 February 1935
 b. 恋は水の上で
@@ -25,5 +28,5 @@ b. For children's music genre duration of the songs is less
 a. Dance is most popular genre
 b. Raggeaton is least popular genre
 
-Conclusion
+*Conclusion*:
 Overall, the analysis of the Spotify dataset has provided valuable insights and actionable recommendations for Spotify and its stakeholders. The findings empower Spotify to enhance user experience, optimize content curation, refine marketing strategies, and drive growth and profitability in the competitive music streaming industry. By leveraging data-driven insights, Spotify can continue to innovate and deliver a personalized and engaging music streaming experience for its users.
